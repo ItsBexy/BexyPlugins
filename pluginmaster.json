@@ -6,7 +6,7 @@
         "Description": "This plugin provides customizations for the look and feel of the Cross Hotbar\n\n-Split up the left/right hotbars\n-Display Expanded Hold Controls Separately\n-Customize colors and element positions",
         "Changelog": "",
         "InternalName": "CrossUp",
-        "AssemblyVersion": "0.1.3.0",
+        "AssemblyVersion": "0.2.0.0",
         "RepoUrl": "https://github.com/ItsBexy/CrossUp",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -26,6 +26,6 @@
         "DownloadLinkTesting": "https://github.com/ItsBexy/BexyPlugins/raw/main/Plugins/CrossUp/latest.zip",
         "DownloadLinkUpdate": "https://github.com/ItsBexy/BexyPlugins/raw/main/Plugins/CrossUp/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1652245254"
+        "LastUpdate": "1652760545"
     }
 ]
