@@ -1,31 +1,54 @@
 [
-    {
-        "Author": "ItsBexy",
-        "Name": "CrossUp",
-        "Punchline": "Customize the Cross Hotbar!",
-        "Description": "This plugin provides customizations for the look and feel of the Cross Hotbar\n\n-Split up the left/right hotbars\n-Display Expanded Hold Controls Separately\n-Customize colors and element positions",
-        "Changelog": "",
-        "InternalName": "CrossUp",
-        "AssemblyVersion": "0.2.0.0",
-        "RepoUrl": "https://github.com/ItsBexy/CrossUp",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "hotbar",
-            "ui",
-            "gamepad",
-            "controller"
-        ],
-        "IconUrl": "https://github.com/ItsBexy/BexyPlugins/raw/main/Plugins/CrossUp/images/icon.png",
-        "DalamudApiLevel": 6,
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/ItsBexy/BexyPlugins/raw/main/Plugins/CrossUp/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/ItsBexy/BexyPlugins/raw/main/Plugins/CrossUp/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ItsBexy/BexyPlugins/raw/main/Plugins/CrossUp/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1652760545"
-    }
+  {
+    "Author": "ItsBexy",
+    "Name": "CrossUp",
+    "Punchline": "Customize the Cross Hotbar!",
+    "Description": "This plugin provides customizations for the look and feel of the Cross Hotbar\n\n-Split up the left/right hotbars\n-Display Expanded Hold Controls Separately\n-Customize colors and element positions",
+    "Changelog": "",
+    "InternalName": "CrossUp",
+    "AssemblyVersion": "0.2.0.0",
+    "RepoUrl": "https://github.com/ItsBexy/CrossUp",
+    "ApplicableVersion": "any",
+    "CategoryTags": [
+      "hotbar",
+      "ui",
+      "gamepad",
+      "controller"
+    ],
+    "IconUrl": "https://github.com/ItsBexy/BexyPlugins/raw/main/Plugins/CrossUp/images/icon.png",
+    "DalamudApiLevel": 9,
+    "ImageUrls": [
+      ""
+    ],
+    "DownloadLinkInstall": "https://github.com/ItsBexy/BexyPlugins/raw/main/Plugins/CrossUp/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/ItsBexy/BexyPlugins/raw/main/Plugins/CrossUp/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ItsBexy/BexyPlugins/raw/main/Plugins/CrossUp/latest.zip"
+  },
+  {
+    "Author": "ItsBexy",
+    "Name": "Gauge-O-Matic",
+    "InternalName": "GaugeOMatic",
+    "AssemblyVersion": "0.0.0.2",
+    "Changelog": "",
+    "RepoUrl": "https://github.com/ItsBexy/GaugeOMatic",
+    "ApplicableVersion": "any",
+    "Punchline": "Enhance and customize job gauges.",
+    "Description": "Gauge-O-Matic allows you to customize your job gauges by adding extra counters, bars, and indicators in a variety of styles",
+    "CategoryTags": [
+      "hud",
+      "ui"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/ItsBexy/GaugeOMatic/main/GaugeOMatic/Assets/icon.png",
+    "DalamudApiLevel": 9,
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/ItsBexy/GaugeOMatic/main/GaugeOMatic/Assets/showCase.jpg"
+    ],
+    "DownloadLinkInstall": "https://github.com/ItsBexy/BexyPlugins/raw/main/Plugins/GaugeOMatic/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/ItsBexy/BexyPlugins/raw/main/Plugins/GaugeOMatic/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ItsBexy/BexyPlugins/raw/main/Plugins/GaugeOMatic/latest.zip"
+  }
 ]
